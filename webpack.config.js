@@ -23,6 +23,10 @@ module.exports = {
             //App Start
             Main: 'app/components/Main.jsx',
             //Components
+            Timer: 'app/components/Timer.jsx',
+            Countdown: 'app/components/Countdown.jsx',
+            Clock: 'app/components/Clock.jsx',
+            Controls: 'app/components/Controls.jsx',
             Nav: 'app/components/Nav.jsx',
 
 
