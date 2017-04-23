@@ -28,6 +28,7 @@ module.exports = {
             Clock: 'app/components/Clock.jsx',
             CountdownForm: 'app/components/CountdownForm.jsx',
             Nav: 'app/components/Nav.jsx',
+            Controls: 'app/components/Controls.jsx',
 
 
             //Styles
